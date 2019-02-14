@@ -1,1 +1,1 @@
-# fcc_twitch-api
+# Twitch API Project
